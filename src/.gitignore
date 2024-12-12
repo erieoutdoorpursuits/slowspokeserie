@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Build output
+_public/
+
+# Build output
+_site/
+
+# Local development files
+.eleventy.server.js
